@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **JavaScript**
 
-- 📫 How to reach me **saravana1802kumar@gmail.com**
+- 📫 **saravana1802kumar@gmail.com**
 
 
 
