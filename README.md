@@ -13,7 +13,7 @@
 
 - 📫 **saravana1802kumar@gmail.com**
 
-    <a href="https://portfolio-saravana.netlify.app/" target="blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" /></a>
+    <a href="https://portfolio-saravana.netlify.app/" target="__blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" /></a>
 
 
 
