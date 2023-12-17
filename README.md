@@ -45,6 +45,8 @@
 
 ## 😄 Cool Stats
 
+<a align="right" href="https://app.daily.dev/saravanakumar"><img align="right" src="https://api.daily.dev/devcards/6770635b95734523a17ef9536056e7ff.png?r=bnz" width="350" alt="S Saravanakumar's Dev Card"/></a>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=saravanakumar1802&show_icons=true&locale=en&layout=compact&theme=radical&langs_count=6)
 
 ![Saravana's GitHub stats](https://github-readme-stats.vercel.app/api?username=saravanakumar1802&show_icons=true&locale=en&theme=radical)
