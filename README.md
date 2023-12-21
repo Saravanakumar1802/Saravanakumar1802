@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?size=20&font=Poppins&pause&duration=5000&color=4dabf7&size=22&center=true&vCenter=true&width=800&height=50&lines=Hi👋+I'm+Saravanakumar+;Full-Stack+Web+Developer;" width="100%"> 
 </p>
 
-<a href="https://app.daily.dev/saravanakumar"><img align="right" src="https://api.daily.dev/devcards/6770635b95734523a17ef9536056e7ff.png?r=7wk" width="400" alt="S Saravanakumar's Dev Card"/></a>
+<a href="https://app.daily.dev/saravanakumar"><img align="right" src="https://api.daily.dev/devcards/6770635b95734523a17ef9536056e7ff.png?r=3w1"  width="400" alt="S Saravanakumar's Dev Card"/></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saravanakumar1802&label=Profile%20views&color=0e75b6&style=flat" alt="saravanakumar1802" /> </p>
 
 - 🌱 I’m currently learning **FullStack Development**
